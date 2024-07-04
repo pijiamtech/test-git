@@ -13,3 +13,9 @@ git branch {name_branch}    #สร้าง branch ชื่อ {name_branch}
 git checkout {name_branch}  #ย้ายตัวเองไปอยู่ที่ branch {name_branch}
 
 let's publish Branches
+
+git checkout main           #ย้ายตัวเองไปอยู่ที่ branch main
+git merge {name_branch}     #รวมไฟล์ main กับ {name_branch} ไว้ในเครื่อง
+
+let's push into server
+
