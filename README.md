@@ -23,8 +23,7 @@ git push origin :{name_branch}   #ลบ branch {name_branch} ออกจาก
 
 # **testing pull request!!!**
 
-#To-do(PJ)-List
-
+# To-do(PJ)-List
 Computer vision about license plate of car (ocr, ner, opencv)??<br>
 how to computer can solving equations??<br>
 AI playing sudoku
