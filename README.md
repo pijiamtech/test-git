@@ -22,3 +22,7 @@ git branch -d {name_branch}      #ลบ branch {name_branch} ออกจาก
 git push origin :{name_branch}   #ลบ branch {name_branch} ออกจาก Server
 
 # **testing pull request!!!**
+
+Computer vision about license plate of car (ocr, ner, opencv)??
+how to computer can solving equations??
+AI playing sudoku
