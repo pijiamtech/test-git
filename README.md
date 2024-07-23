@@ -27,3 +27,6 @@ git push origin :{name_branch}   #ลบ branch {name_branch} ออกจาก
 Computer vision about license plate of car (ocr, ner, opencv)??<br>
 how to computer can solving equations??<br>
 AI playing sudoku
+
+# Today(23/7) I'm learn about robots.txt
+/robot.txt เพื่อดูว่าส่วนไหนใช้บอทได้
