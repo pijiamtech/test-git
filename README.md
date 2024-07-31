@@ -78,4 +78,4 @@ def unicode_table():
         print("{0} : {0:#x} : {0:c}".format(i))
 unicode_table()
 ```
-# ก - ฮ ( 3585 - 3630 )
+#ก - ฮ ( 3585 - 3630 )
