@@ -68,3 +68,14 @@ git commit -m "edit readme and add requirements.txt"
 git log // ดูประวัติ กด q เพื่อออก
 
 git push
+
+
+# Note:
+print(ord(" ")) # blank space is the decimal number 32
+```
+def unicode_table():
+    for i in range(ord("ก"), ord("ฮ") + 1):
+        print("{0} : {0:#x} : {0:c}".format(i))
+unicode_table()
+```
+# ก - ฮ ( 3585 - 3630 )
