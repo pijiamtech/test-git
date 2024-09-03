@@ -39,6 +39,8 @@ py -m venv .venv  //สร้าง Virtual Environment
 
 .venv\Scripts\activate //ใช้งาน Virtual Environment
 
+pip install -r requirements.txt
+
 deactivate //ออกจาก Virtual Environment
 
 pip freeze > requirements.txt //สร้าง requirements.txt จาก Environment ที่เราอยู่
